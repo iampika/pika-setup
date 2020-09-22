@@ -11,7 +11,9 @@
   "keywords": [],
   "author": "Mahendra Choudhary",
   "license": "MIT",
-  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
   "dependencies": {
     "fs-extra": "^9.0.0"
   },
