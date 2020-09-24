@@ -1,6 +1,6 @@
 {
   "name": "pika-setup",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Quickly setup prettier .vscode .editorconfig",
   "main": "src/index.js",
   "bin": {
